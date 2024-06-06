@@ -16,3 +16,6 @@ Here is the got repo for following assignment
 
 6. Create a Maven Project and Implement all the programs in Maven Build Tool. Create POM.XML file and run test suites from pom.xml file after adding all dependencies
 7. Create a branch name as comprehensive_basic_3 in GitHub and implement all the above programs in that branch and push the code into the same branch. Share the GitHub details to evaluate. All these steps should be done using GIT Commands
+
+TO RUN Maven: 
+mvn test -DsuiteXmlFile=testng.xml
