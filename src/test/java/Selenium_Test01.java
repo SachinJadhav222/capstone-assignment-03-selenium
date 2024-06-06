@@ -6,7 +6,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.util.concurrent.TimeUnit;
 
-public class AutomationAnywhereTest {
+public class Selenium_Test01 {
     public static void main(String[] args) {
         boolean isWindowsPlatform = System.getProperty("os.name").contains("Windows");
         // Set the path to your ChromeDriver
